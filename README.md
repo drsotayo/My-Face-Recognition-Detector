@@ -16,4 +16,3 @@ Libraries included:
 
 ![Face recognition   detector](https://user-images.githubusercontent.com/86897066/128860185-8d8e93c4-0918-4a20-a198-fb2864252b7f.png)
 
-https://github.com/drsotayo/My-Face-Recognition-Detector/blob/main/My%20face%20recognition%20%26%20detector.png 
