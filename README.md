@@ -4,9 +4,8 @@ Face Recognition &amp; Detector
 Developed my face recognition and detector model
 
 ## Overview 
-- Initially visualised 
-- Trained model using my images 
-- Face Identification 
+- Initially visualised and trained model using my images 
+- Face identification 
 - Face detection
 
 Libraries included:
