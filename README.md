@@ -9,7 +9,7 @@ Developed my face recognition and detector model
 - Face detection
 
 Libraries included:
-- Numpy
+- NumPy
 - OpenCV
 - Face-recognition
 - Matplotlib
